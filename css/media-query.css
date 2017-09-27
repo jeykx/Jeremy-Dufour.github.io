@@ -1,0 +1,110 @@
+@media screen and (min-width: 320px ) and (max-width: 399px) {
+   
+   #game-picture {
+            
+        margin-top: 5%; 
+        height: 260px;   
+           
+   }
+
+   #cinema-picture {
+            
+           margin-top: 5%; 
+           height: 260px; 
+   }
+
+   #board-picture {
+             
+             margin-top: 5%; 
+             height: 260px; 
+            
+   }
+}
+
+
+@media screen and (min-width: 400px ) and (max-width: 414px) {
+   
+   #game-picture {
+            
+        margin-top: 5%; 
+        height: 320px;   
+           
+   }
+
+   #cinema-picture {
+            
+           margin-top: 5%; 
+           height: 320px; 
+   }
+
+   #board-picture {
+             
+             margin-top: 5%; 
+             height: 320px; 
+            
+   }
+}
+
+@media screen and (min-width: 768px ) and (max-width: 990px) {
+   
+   #game-picture {
+            
+            
+            height: 320px;
+   }
+
+   #cinema-picture {
+            
+            margin-top: 17%;
+            height: 320px;
+   }
+
+   #board-picture {
+            
+            margin-top: -310px;
+            height: 320px;
+   }
+}
+
+@media screen and (min-width: 992px ) and (max-width: 1920px) {
+   
+   #game-picture {
+            
+            
+            height: 200px;
+   }
+
+   #cinema-picture {
+            
+            
+            height: 200px;
+   }
+
+   #board-picture {
+            
+            
+            height: 200px;
+   }
+}
+
+
+@media screen and (min-width: 1200px ) and (max-width: 1920px) {
+   
+   #game-picture {
+            
+            
+            height: 250px;
+  }
+
+  #cinema-picture {
+            
+            
+            height: 250px;
+   }
+
+   #board-picture {
+            
+            
+            height: 250px;
+   }
+}
