@@ -10,8 +10,8 @@
           <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
           <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato"/>
         </head>
-            <body data-spy="scroll" data-target=".navbar" data-offset="60">
-         	    <nav class="navbar navbar-default navbar-fixed-top">
+            <body onload="myFunction()" data-spy="scroll" data-target=".navbar" data-offset="60">
+                <nav class="navbar navbar-default navbar-fixed-top">
          	    	<div class="container">
          	    		<div class="navbar-header">
          	    			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -187,16 +187,25 @@
          			</div>
          			  <div class="row">
                   <div class="col-md-3 col-sm-6">
+                    <div class="view view-first">  
                          <img src="img/drum.png" class="img-circle" alt="mydrum-picture">
+                   </div> 
+                  </div>
+                   
+                   <div class="col-md-3 col-sm-6">
+                    <div class="view view-first"> 
+                        <img src="img/game.png" class="img-circle" id="game-picture" alt="manette-picture">
+                  </div>
                   </div>
                    <div class="col-md-3 col-sm-6">
-                           <img src="img/game.png" class="img-circle" id="game-picture" alt="manette-picture">
-                  </div>
-                   <div class="col-md-3 col-sm-6">
+                    <div class="view view-first"> 
                      <img src="img/cinema.png" class="img-circle" id="cinema-picture" alt="cinema-picture">
+                    </div>
                   </div>
                    <div class="col-md-3 col-sm-6">
+                    <div class="view view-first"> 
                      <img src="img/board.png" class="img-circle" id="board-picture" alt="longboard-picture">
+                 </div>
                   </div>
                   
                 </div>
@@ -222,9 +231,8 @@
               </a>
              </div>
             </footer>
-
-              <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-              <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-              <script type="text/javascript" src="js/scroll_effect.js"></script>
-        </body>
-      </html>
+         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+         <script type="text/javascript" src="js/scroll_effect.js"></script>
+    </body>
+</html>
