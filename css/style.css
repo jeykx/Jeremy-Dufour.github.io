@@ -47,7 +47,7 @@
 
 										width: 100px;
 										height: 2px;
-										background: #3b5998;
+										background: #0279ff;
 										margin: 0 auto;
 									}
 
@@ -63,7 +63,7 @@
 
 			                          .navbar {
 
-			                          	background: #3b5998;
+			                          	background: #0279ff;
 			                          	font-size: 12px;
 			                          	letter-spacing: 4px;
 			                          	text-transform: uppercase;
@@ -89,7 +89,7 @@
 
 			                          .navbar-nav li a:hover, .navbar-nav li.active a {
 
-			                              color: #8b9dc3 !important;
+			                              color: #3550d8 !important;
 			                              background-color: #fff !important;
 			                          }
 
@@ -112,7 +112,7 @@
 									#about {
 
 										padding-top: 100px;
-										background: #8b9dc3;
+										background: #3550d8;
 									}
 
 									.profile-picture {
@@ -148,7 +148,7 @@
 
 									.button1:hover {
 										background: white;
-										color: #3b5998;
+										color: #0279ff;
 										text-decoration: none;
 									}
 
@@ -162,7 +162,7 @@
 
 								#skills .heading h2 {
 
-									color: #3b5998;
+									color: #0279ff;
 								}
 
 							
@@ -187,7 +187,7 @@
 
 							   #experience {
 
-								background: #8b9dc3;
+								background: #3550d8;
 							}
 
 							   #experience .heading h2 {
@@ -239,7 +239,7 @@
 
 							.timeline li .timeline-badge {
 
-								color: #3b5998;
+								color: #0279ff;
 								width: 50px;
 								line-height: 50px;
 								font-size: 20px;
@@ -316,7 +316,7 @@
 
 					        .timeline-heading h4 {
 
-					        	color: #3b5998;
+					        	color: #0279ff;
 					        }
 
 
@@ -331,7 +331,7 @@
 
 					      #education .heading h2 {
 
-					      	color: #3b5998;
+					      	color: #0279ff;
 					      }
 
 					      .education-block {
@@ -361,7 +361,7 @@
 
 					      .education-block h3 {
 
-					          color: #3b5998;
+					          color: #0279ff;
 					      }
 
 					      .education-block h4 {
@@ -385,7 +385,7 @@
 
 				        #portfolio {
 
-				        	background: #8b9dc3;
+				        	background: #3550d8;
 				        }
 
 				        #portfolio .heading h2 {
@@ -425,7 +425,7 @@
 
 				        #loisirs .heading h2 {
 
-				        	color: #3b5998;
+				        	color: #0279ff;
 				        }
 
 				      
@@ -445,7 +445,7 @@
 
 				        	font-size: 25px;
 				        	margin: 20px;
-				        	color: #3b5998;
+				        	color: #0279ff;
 				        	height: 30px;
 				        }
 
@@ -470,5 +470,5 @@
 				        footer .btn-social-icon:hover {
 
 				        
-				        	color: #3b5998;
+				        	color: #0279ff;
 				        }
